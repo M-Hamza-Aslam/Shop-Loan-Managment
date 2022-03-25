@@ -1,0 +1,17 @@
+.BorrowFormButton{
+    background-color: #018786;
+    border-color: #018786;
+}
+.BorrowFormButton:hover{
+    background-color: #03dac6;
+    border-color: #03dac6;
+    color: black;
+}
+.BorrowFormCancelButton{
+    background-color: #941c2f;
+    border-color: #941c2f;
+}
+.BorrowFormCancelButton:hover{
+    background-color: red;
+    border-color: red;
+}

@@ -1,0 +1,22 @@
+.NewBorrowCard{
+    background-color: #273043;
+    border-color: #273043;
+    border-radius: 20px;
+}
+.NewBorrowCardHeader{
+    background-color: #03dac6 !important;
+}
+.ShowForm{
+    background-color: #03dac6!important;
+    border-radius: 15px;
+}
+.ShowFormButton{
+    background-color: #941c2f;
+    border-radius: 15px;
+    border-color: #941c2f;
+    font-weight: 600;
+}
+.ShowFormButton:hover{
+    background-color: #c0394d;
+    border-color: #c0394d;
+}

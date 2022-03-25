@@ -1,0 +1,9 @@
+.BorrowListCard{
+    border-color: #273043 !important;
+    background-color: #273043;
+    border-radius: 20px;
+}
+.BorrowListCardHeader{
+    background-color: #03dac6 !important;
+    /* background-color: #03dac6; */
+}

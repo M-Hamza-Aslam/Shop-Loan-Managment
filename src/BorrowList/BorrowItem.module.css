@@ -1,0 +1,12 @@
+.Card{
+    background-color: #018786 !important;
+    border-radius:  15px !important;
+}
+.CardPrice{
+    background-color: #941c2f;
+    border-radius:  12px !important;
+
+}
+.Card h4 {
+    font-size: 18px;
+}
